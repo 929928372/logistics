@@ -1,0 +1,115 @@
+.background_msg {
+	background-image: url(../img/background.jpeg);
+	background-position: center 0;
+	background-size: 100% 100%;
+	opacity: 0.9;
+	height: 536px;
+}
+
+.text_position {
+	padding-top: 200px;
+}
+
+.logo_size {
+	width: 120px;
+	height: 96px;
+}
+
+.background_ {
+	background-color: #66AFE9;
+}
+
+.row_position {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+/* 分割线 */
+.dividing_line {
+	border-top: #999999 1px solid;
+	padding-top: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.dividing_line_ {
+	border-top: #999999 1px dashed;
+	padding-top: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.font_style {
+	font-size: 25px;
+}
+
+.name_font {
+	color: red;
+	font-size: 25px;
+}
+
+.border_style {
+	background-image: url(../img/logistics.png);
+	background-position: center;
+	background-size: 100% 100%;
+	height: 536px;
+	margin-top: 10px;
+}
+
+.border_gray {
+	border-left: 6px solid #E0E0E0;
+	border-right: 6px solid #E0E0E0;
+	border-bottom: 15px solid #E0E0E0;
+	border-top: 15px solid #E0E0E0;
+	margin-left: 6px;
+	margin-right: 6px;
+}
+
+.sp1 {
+	padding: 5px;
+}
+
+.sp2 {
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+
+.sp3 {
+	padding-top: 10px;
+	padding-left: 50px;
+}
+
+.sp4 {
+	resize: none;
+}
+
+.sp5 {
+	padding-left: 40%;
+	padding-bottom: 1%;
+}
+
+.sp6 {
+	padding-left: 30px;
+}
+
+.sp7{
+	padding-left: 10%;
+	padding-bottom: 2%;
+}
+
+.font_color {
+	color: #D9534F;
+}
+
+.test {
+	border: 2px solid red;
+}
+
+.btn_my {
+	color: blue;
+	background-color: #FFFFFF;
+	border: 0px none; //去边框
+	font-family: "宋体";
+	font-size: 14px;
+}
